@@ -1,0 +1,9 @@
+.cardsRow{
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+    scroll-behavior: smooth;
+    
+}
+.card{
+ width: 20%;
+}
